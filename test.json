@@ -1,0 +1,53 @@
+[
+    {
+        "title": "The Way of Kings",
+        "author": "Brann",
+        "rating": 2,
+        "pages": 400,
+        "genres": [
+            "Fantasy"
+        ],
+        "reviews": [
+            {
+                "name": "Steve",
+                "message": "Nice book"
+            }
+        ]
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "rating": 4,
+        "pages": 300,
+        "genres": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "reviews": [
+            {
+                "name": "Alice",
+                "message": "A classic adventure!"
+            },
+            {
+                "name": "Bob",
+                "message": "Enjoyed the journey."
+            }
+        ]
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "rating": 5,
+        "pages": 320,
+        "genres": [
+            "Fiction",
+            "Classics"
+        ],
+        "reviews": [
+            {
+                "name": "Emily",
+                "message": "A powerful and thought-provoking novel."
+            }
+        ]
+    }
+]
